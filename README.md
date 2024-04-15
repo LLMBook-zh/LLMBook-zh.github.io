@@ -26,9 +26,9 @@
 ## 本书内容
 
 ### 下载地址
-**全书内容**： [大语言模型](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/LLMBook-v1.pdf) (updated 2024-04-15)  
+**全书内容**： **《大语言模型》** (updated 2024-04-15)  
 - 在2023年12月底，为了更好地提供大模型技术的中文参考资料，我们启动了中文书的编写工作，并且于近日完成初稿。中文版书籍注重为大模型技术的入门读者提供讲解，力图展现一个整体的大模型技术框架和路线图。本书适用于具有深度学习基础的高年级本科生以及低年级研究生使用，可以作为一本入门级的技术书籍。  
-- [下载链接1](http://aibox.ruc.edu.cn/docs//2024-04/07e98c61c1c84232991b18c5bfe0c8a0.pdf)，[下载链接2](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/LLMBook-v1.pdf)；
+- [下载链接1](http://aibox.ruc.edu.cn/docs//2024-04/07e98c61c1c84232991b18c5bfe0c8a0.pdf)，[下载链接2](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/LLMBook-v1.pdf)
 
 **英文综述论文**：[LLMSurvey](https://arxiv.org/abs/2303.18223)
 - 为了更好地整理和传播大模型技术的最新进展与技术体系，我们在2023年3月发表了大语言模型英文综述文章《A Survey of Large Language Models》，并不断进行更新完善。这篇综述文章已经更新到第13个版本，包含了83页的正文内容，并收录了900余篇参考文献。
