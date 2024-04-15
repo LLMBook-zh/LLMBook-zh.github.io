@@ -17,7 +17,11 @@
 本书旨在为读者提供关于大模型技术的全面了解，包括其基础原理、关键技术和应用前景。通过深入研究和实践，我们可以不断探索和改进大模型技术，为人工智能领域的发展做出贡献。
 我们希望读者通过阅读本书，能够深入了解大模型技术的现状和未来趋势，为自己的研究和实践提供指导和启发。让我们携手努力，共同推动人工智能技术的发展，为建立更智能、更可持续的未来做出贡献。  
 
-![](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/LLMbook.png)
+<br>
+<div align="center">
+  <img style="float: right;margin-left: auto;  margin-right: auto;" src="LLMbook.png">
+</div>
+<br>
   
 ## 本书内容
 
@@ -37,8 +41,6 @@
 - YuLan系列模型是中国人民大学高瓴人工智能学院师生共同开发的支持聊天的大语言模型（名字"玉兰"取自中国人民大学校花）。最新版本从头完成了整个预训练过程，并采用课程学习技术基于中英文双语数据进行有监督微调，包括高质量指令和人类偏好数据。
 
 ### 章节组织  
-
-<br>
 <div align="center">
   <img style="float: right;margin-left: auto;  margin-right: auto;" src="List.png">
 </div>
