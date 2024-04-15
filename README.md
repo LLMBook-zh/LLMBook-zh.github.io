@@ -33,7 +33,7 @@ published: true
 本书旨在为读者提供关于大模型技术的全面了解，包括其基础原理、关键技术和应用前景。通过深入研究和实践，我们可以不断探索和改进大模型技术，为人工智能领域的发展做出贡献。
 我们希望读者通过阅读本书，能够深入了解大模型技术的现状和未来趋势，为自己的研究和实践提供指导和启发。让我们携手努力，共同推动人工智能技术的发展，为建立更智能、更可持续的未来做出贡献。
 
-<img style="float: right;margin-left: auto;  margin-right: auto;" src="nndl2.jpg">
+<img style="float: right;margin-left: auto;  margin-right: auto;" src="LLMbook.png">
 
 ## 本书内容
 
