@@ -19,7 +19,7 @@
 
 <br>
 <div align="center">
-  <img src="LLMbook.png">
+  <img src="LLMbook.png" width="400" height="600">
 </div>
 <br>
   
@@ -42,10 +42,9 @@
 
 ### 章节组织  
 <div align="center">
-  <img style="float: right;margin-left: auto;  margin-right: auto;" src="List.png">
+  <img src="List.png" width="800" height="350">
 </div>
 <br>
-章节组织如上图所示
 
 ## 引用信息  
 
