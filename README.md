@@ -19,7 +19,7 @@
 
 <br>
 <div align="center">
-  <img src="cover.jpg" width="430" height="600">
+  <img src="cover-re.jpg" width="430" height="600">
 </div>
 <br>
   
