@@ -19,7 +19,7 @@
 
 <br>
 <div align="center">
-  <img src="LLMbook-re.png" width="430" height="600">
+  <img src="cover.jpg" width="430" height="600">
 </div>
 <br>
   
