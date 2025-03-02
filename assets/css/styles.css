@@ -1,0 +1,25 @@
+.recommendation {
+  background-color: #e6f7ff; /* 淡蓝色背景 */
+  border-left: 5px solid #4CAF50; /* 左侧绿色边框 */
+  padding: 20px; /* 内边距 */
+  margin-bottom: 20px; /* 底部间距 */
+  border-radius: 8px; /* 圆角 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 轻微阴影 */
+}
+
+/* 推荐语文字样式 */
+.recommendation p {
+  font-size: 16px; /* 字体大小 */
+  line-height: 1.6; /* 行高 */
+  color: #333; /* 文字颜色 */
+  margin: 0; /* 移除默认外边距 */
+}
+
+/* 作者信息样式 */
+.recommendation .author {
+  font-style: italic; /* 斜体 */
+  font-size: 14px; /* 字体稍小 */
+  color: #555; /* 灰色文字 */
+  text-align: right; /* 右对齐 */
+  margin-top: 10px; /* 上方间距 */
+}
