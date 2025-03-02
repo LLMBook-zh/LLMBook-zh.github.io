@@ -17,20 +17,10 @@
   </a>
 </div>
 <br>
-  
-## 本书内容
 
-### 章节组织
-本书由高等教育出版社出版，包括四个主要部分，共分为十二个章节，内容涉及大模型的背景与基础知识、预训练、微调与对齐、使用与评测等。
 
-<div align="center">
-  <img src="List.png" width="810" height="320">
-</div>
-<br>
 
-为了方便阅读，这里提供之前的中文书电子版本： [下载链接1](https://llmbook-zh.github.io/LLMBook.pdf)，[下载链接2](http://aibox.ruc.edu.cn/zws/index.htm)，但由于后续修订和篇幅原因，大模型应用章节未纳入正式出版，一切内容以正式出版物为准。
-
-### 推荐语
+## 推荐语
 <link rel="stylesheet" href="./assets/css/styles.css">
 
 <div class="recommendation">
@@ -48,7 +38,7 @@
   <p class="author">张亚勤 清华大学智能科学讲席教授、中国工程院外籍院士</p>
 </div>
 
-### 课程资源
+## 课程资源
 为了帮助课程教学及传播大模型知识，《大语言模型》编写团队特别提供了相应的PDF课件：
 
 
@@ -72,7 +62,7 @@
 
 未经许可，不得二次传播。
 
-## 引用信息  
+## 引用格式  
 
 ```
 @book{LLMBook,
@@ -110,3 +100,5 @@
 在准备中文书的过程中，我们广泛阅读了现有的经典论文、相关代码和教材，从中提炼出核心概念、主流算法与模型，并进行了系统性的组织与介绍。 我们对于每个章节的内容初稿都进行了多次修正，力求表达的清晰性与准确性。 然而，在书写过程中，我们深感自身能力与知识的局限性，尽管已经付出了极大的努力，但难免会有遗漏或不当之处。本书的初版仅是一个起点，我们计划在网上持续进行内容的更新和完善，并特别欢迎读者提出宝贵的批评与建议，也会同步在网站上对于提出宝贵建议的读者进行致谢。我们将编写此书的过程当做一个自身的学习过程，也希望能够通过本书与读者进行深入交流，向更多的行业同行学习
 
 如果您有任何意见、评论以及建议（先确认最新版本中是否已经修正），请通过GitHub的[Issues](https://github.com/LLMBook-zh/LLMBook-zh.github.io/issues)页面进行反馈，或通过邮件发送至作者邮箱***batmanfly at qq.com***，***lijunyi at ruc.edu.cn***，***francis_kun_zhou at ruc.edu.cn***，***steventianyitang at outlook.com***。
+
+为了方便阅读，这里提供之前的中文书电子版本： [下载链接1](https://llmbook-zh.github.io/LLMBook.pdf)，[下载链接2](http://aibox.ruc.edu.cn/zws/index.htm)，但由于后续修订和篇幅原因，大模型应用章节未纳入正式出版，一切内容以正式出版物为准。
