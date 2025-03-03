@@ -44,23 +44,24 @@
 
 | 课程 | 目录 |
 |:----:|:----:|
-| 第一课 初识大模型（对应本书第一、二章） | 语言模型发展历程、大模型技术基础、GPT和DeepSeek模型介绍 |
-| 第二课 模型架构（对应本书第五章） | Transformer模型介绍、模型详细配置、长上下文模型和新型架构 |
-| 第三课 预训练（对应本书第四、六章） | 预训练之数据工程、预训练之具体流程、训练优化、模型参数量与训练效率估计 |
-| 第四课 指令微调（对应本书第七章） | 指令微调与常见策略、轻量化微调 |
-| 第五课 人类对齐（对应本书第八章） | 人类对齐之基础、人类对齐之进阶 |
-| 第六课 解码与部署（对应本书第九章） | 大模型解码、解码效率分析与加速算法、模型压缩 |
-| 第七课 提示学习（对应本书第十章） | 提示设计、上下文学习、思维链提示、检索增强生成 |
-| 第八课 复杂推理（对应本书第十一章） | 规划与智能体、复杂推理与慢思考 |
+| 第一课 初识大模型（对应本书第一、二章） | [语言模型发展历程](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E5%88%9D%E8%AF%86%E5%A4%A7%E6%A8%A1%E5%9E%8B/1.1%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B.pdf)、[大模型技术基础](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E5%88%9D%E8%AF%86%E5%A4%A7%E6%A8%A1%E5%9E%8B/1.2%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80.pdf)、[GPT和DeepSeek模型介绍](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E5%88%9D%E8%AF%86%E5%A4%A7%E6%A8%A1%E5%9E%8B/1.3%20GPT%2BDeepSeek%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D.pdf) |
+| 第二课 模型架构（对应本书第五章） | [Transformer模型介绍](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%BA%8C%E8%AF%BE%20%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/2.1%20Transformer%E6%A8%A1%E5%9E%8B.pdf)、[模型详细配置](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%BA%8C%E8%AF%BE%20%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/2.2%20%E6%A8%A1%E5%9E%8B%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE.pdf)、[长上下文模型和新型架构](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%BA%8C%E8%AF%BE%20%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/2.3%20%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E6%A8%A1%E5%9E%8B%E5%92%8C%E6%96%B0%E5%9E%8B%E6%9E%B6%E6%9E%84.pdf) |
+| 第三课 预训练（对应本书第四、六章） | [预训练之数据工程](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%89%E8%AF%BE%20%E9%A2%84%E8%AE%AD%E7%BB%83/3.1%20%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B.pdf)、[预训练之具体流程](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%89%E8%AF%BE%20%E9%A2%84%E8%AE%AD%E7%BB%83/3.2%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B9%8B%E5%85%B7%E4%BD%93%E6%B5%81%E7%A8%8B.pdf)、[训练优化](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%89%E8%AF%BE%20%E9%A2%84%E8%AE%AD%E7%BB%83/3.3%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B9%8B%E8%AE%AD%E7%BB%83%E4%BC%98%E5%8C%96%E4%B8%8E%E6%95%88%E7%8E%87.pdf)、[模型参数量与训练效率估计](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%89%E8%AF%BE%20%E9%A2%84%E8%AE%AD%E7%BB%83/3.3%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B9%8B%E8%AE%AD%E7%BB%83%E4%BC%98%E5%8C%96%E4%B8%8E%E6%95%88%E7%8E%87.pdf) |
+| 第四课 指令微调（对应本书第七章） | [指令微调与常见策略](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%9B%9B%E8%AF%BE%20%E6%8C%87%E4%BB%A4%E5%BE%AE%E8%B0%83/4.1%20%E6%8C%87%E4%BB%A4%E5%BE%AE%E8%B0%83%E4%B8%8E%E5%B8%B8%E8%A7%81%E7%AD%96%E7%95%A5.pdf)、[轻量化微调](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%9B%9B%E8%AF%BE%20%E6%8C%87%E4%BB%A4%E5%BE%AE%E8%B0%83/4.2%20%E8%BD%BB%E9%87%8F%E5%8C%96%E5%BE%AE%E8%B0%83.pdf) |
+| 第五课 人类对齐（对应本书第八章） | [人类对齐之基础](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E4%BA%BA%E7%B1%BB%E5%AF%B9%E9%BD%90/5.1%20%E4%BA%BA%E7%B1%BB%E5%AF%B9%E9%BD%90%E4%B9%8B%E5%9F%BA%E7%A1%80.pdf)、[人类对齐之进阶](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E4%BA%BA%E7%B1%BB%E5%AF%B9%E9%BD%90/5.2%20%E4%BA%BA%E7%B1%BB%E5%AF%B9%E9%BD%90%E4%B9%8B%E8%BF%9B%E9%98%B6.pdf) |
+| 第六课 解码与部署（对应本书第九章） | [大模型解码](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AD%E8%AF%BE%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E9%83%A8%E7%BD%B2/6.1%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A7%A3%E7%A0%81.pdf)、[解码效率分析与加速算法](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AD%E8%AF%BE%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E9%83%A8%E7%BD%B2/6.2%20%E8%A7%A3%E7%A0%81%E6%95%88%E7%8E%87%E5%88%86%E6%9E%90%E4%B8%8E%E5%8A%A0%E9%80%9F%E7%AE%97%E6%B3%95.pdf)、[模型压缩](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AD%E8%AF%BE%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E9%83%A8%E7%BD%B2/6.3%20%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9.pdf) |
+| 第七课 提示学习（对应本书第十章） | [提示设计](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%83%E8%AF%BE%20%E6%8F%90%E7%A4%BA%E5%AD%A6%E4%B9%A0/7.1%20%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B.pdf)、[上下文学习](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%83%E8%AF%BE%20%E6%8F%90%E7%A4%BA%E5%AD%A6%E4%B9%A0/7.2%20%E4%B8%8A%E4%B8%8B%E6%96%87%E5%AD%A6%E4%B9%A0.pdf)、[思维链提示](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%83%E8%AF%BE%20%E6%8F%90%E7%A4%BA%E5%AD%A6%E4%B9%A0/7.3%20%E6%80%9D%E7%BB%B4%E9%93%BE%E6%8F%90%E7%A4%BA.pdf)、[检索增强生成](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E4%B8%83%E8%AF%BE%20%E6%8F%90%E7%A4%BA%E5%AD%A6%E4%B9%A0/7.4%20%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90.pdf) |
+| 第八课 复杂推理（对应本书第十一章） | [规划与智能体](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AB%E8%AF%BE%20%E5%A4%8D%E6%9D%82%E6%8E%A8%E7%90%86/8.1%20%E8%A7%84%E5%88%92%E4%B8%8E%E6%99%BA%E8%83%BD%E4%BD%93.pdf)、[复杂推理与慢思考](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AB%E8%AF%BE%20%E5%A4%8D%E6%9D%82%E6%8E%A8%E7%90%86/8.2%20%E5%A4%8D%E6%9D%82%E6%8E%A8%E7%90%86%E4%B8%8E%E6%85%A2%E6%80%9D%E8%80%83.pdf) |
+| 其他章节  |  [大模型资源](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E8%AF%84%E6%B5%8B%E4%B8%8E%E8%B5%84%E6%BA%90/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%84%E6%BA%90.pdf)、[大模型评测](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E8%AF%84%E6%B5%8B%E4%B8%8E%E8%B5%84%E6%BA%90/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%84%E6%B5%8B.pdf) |
 
 
-如果需要相应的原始PPT课件，请邮件联系 batmanfly at qq.com：
+**如果需要相应的原始PPT课件，请邮件联系 batmanfly at qq.com：**
 
-邮件标题：《大语言模型》PPT课件-{姓名}-{机构}
+**邮件标题：《大语言模型》PPT课件-{姓名}-{机构}**
 
-邮件内容请说明PPT课件用途，如用在具体教学课程请列出课程名称。
+**邮件内容请说明PPT课件用途，如用在具体教学课程请列出课程名称。**
 
-未经许可，不得二次传播。
+**未经许可，不得二次传播。**
 
 ## 引用格式  
 
