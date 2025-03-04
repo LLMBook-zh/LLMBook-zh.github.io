@@ -54,16 +54,17 @@
 | 第八课 复杂推理（对应本书第十一章） | [规划与智能体](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AB%E8%AF%BE%20%E5%A4%8D%E6%9D%82%E6%8E%A8%E7%90%86/8.1%20%E8%A7%84%E5%88%92%E4%B8%8E%E6%99%BA%E8%83%BD%E4%BD%93.pdf)、[复杂推理与慢思考](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E7%AC%AC%E5%85%AB%E8%AF%BE%20%E5%A4%8D%E6%9D%82%E6%8E%A8%E7%90%86/8.2%20%E5%A4%8D%E6%9D%82%E6%8E%A8%E7%90%86%E4%B8%8E%E6%85%A2%E6%80%9D%E8%80%83.pdf) |
 | 其他章节  |  [大模型资源](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E8%AF%84%E6%B5%8B%E4%B8%8E%E8%B5%84%E6%BA%90/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%84%E6%BA%90.pdf)、[大模型评测](https://github.com/LLMBook-zh/LLMBook-zh.github.io/blob/main/slides/%E8%AF%84%E6%B5%8B%E4%B8%8E%E8%B5%84%E6%BA%90/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%84%E6%B5%8B.pdf) |
 
+## PPT课件获取
 
-**如果需要相应的原始PPT课件，请邮件联系 batmanfly at qq.com：**
+对于将本纸质书籍列为主要授课书籍的课程，如果需要相应的原始PPT课件进行授课，请使用本机构邮件联系 batmanfly at ruc.edu.cn 进行申请。
 
-**邮件标题：《大语言模型》PPT课件-{姓名}-{机构}**
+邮件标题：《大语言模型》PPT课件-{姓名}-{机构}
 
-**邮件内容请说明PPT课件用途，如用在具体教学课程请列出课程名称。**
+邮件内容请说明
 
-**未经许可，不得二次传播。**
+“已将本纸质书籍列为主要授课书籍，课程中需要明确的说明（请说明在教学课件中或者教学大纲中说明），PPT课件仅用于课程教学，请列出课程名称。
 
-## 引用格式  
+未经许可，不得二次传播和上网传播。”
 
 ```
 @book{LLMBook,
