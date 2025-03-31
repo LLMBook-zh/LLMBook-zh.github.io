@@ -74,6 +74,10 @@
 
 3. 公司培训和个人学习用途（如公司需要，需走商业流程），个人学习可以直接使用pdf版本。
 
+## 代码获取
+
+所有本书中的代码片段已公开在github，可前往获取：[code](https://github.com/LLMBook-zh/LLMBook-zh.github.io/tree/main/code)。
+
 ## 教学视频获取
 
 相关课程教学视频已公开在 bilibili 网站：[观看视频](https://space.bilibili.com/431850986/lists/4940683?type=season)
